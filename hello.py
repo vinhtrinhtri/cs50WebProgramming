@@ -1,2 +1,2 @@
 x = str(input("What's your name ? "))
-print(f"Hello,{x}")
+print(f"Hello,world")
